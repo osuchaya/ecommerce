@@ -1,6 +1,6 @@
 # ecommerce
 
-Since this is not a deployed site, please view the walkthrough video at 
+Since this is not a deployed site, please view the walkthrough video at https://drive.google.com/file/d/1TmVG0vvbiev0Hhzs6yvQ0_LCIMpMZP1D/view
 
 Please see the repository where this project is lcoated at https://github.com/osuchaya/ecommerce
 
